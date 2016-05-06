@@ -29,6 +29,6 @@ Everything you make action is defined first in *$clickitems* and *$fillitems* li
 And finally you must cast a spell like above "cast_a_spell" func!!!
 
 wd_helper.php is trait file and so since you use this usefulness, include this file and then define *use common_funcs;*
-in editing your class.
+in your editing class.
 
  
