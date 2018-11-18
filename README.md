@@ -10,7 +10,7 @@ You can code just only a line to compose a findElement func,
 complicated relationship flow and order of performing code using "wait" or "ExpectedCondition",
 and any form and click items.
 
-I show some example in following.
+I show examples in the following.
 
 ```ruby:example.php
 $clickitems = 
